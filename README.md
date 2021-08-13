@@ -1,5 +1,3 @@
-# 프로젝트 메인페이지(readme)
-
 # 개요
 
 ## 프로젝트 명 : Did you watch?
