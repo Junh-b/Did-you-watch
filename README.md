@@ -44,10 +44,8 @@ Did you watch는 영화, 드라마, 스포츠 등 다양한 컨텐츠에 대한 
 
 이 프로젝트가 최종적으로 다루고자 하는 기능들은 매우 넓기 때문에, 전체 사용자 스토리를 분할해 이터레이션을 구성하여 차근차근 개발해나갈 계획입니다.
 
-현재는 사용자 스토리 1차 추출 후 보완하는 중이며 이후 다음과 같이 진행할 예정입니다.
-
-- 사용자 스토리 보완
-- 이벤트 스토밍
+- 사용자 스토리 보완(https://github.com/Junh-b/Did-you-watch/wiki/UserStory)
+- 이벤트 스토밍(진행중, https://github.com/Junh-b/Did-you-watch/wiki/EventStorming)
 - 마이크로서비스 정의
 - 사용자 스토리 우선순위 결정
 - 이터레이션 분할
@@ -58,6 +56,6 @@ Did you watch는 영화, 드라마, 스포츠 등 다양한 컨텐츠에 대한 
 
 # 문서
 
-wiki 생성후 링크 추가 예정입니다.
+https://github.com/Junh-b/Did-you-watch/wiki
 
 구현중 다루는 기술들에 대한 내용은 프로젝트 wiki와 블로그([https://tech.junhabaek.net/](https://tech.junhabaek.net/))에 업로드될 예정입니다.
