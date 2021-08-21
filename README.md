@@ -38,7 +38,7 @@ Did you watch는 영화, 드라마, 스포츠 등 다양한 컨텐츠에 대한 
 - Cloud service
     - GKE for deployment
     - GCP Cloud Functions for Data Processing
-    - GCP workflows for Transaction SAGA
+    - GCP workflows for Implementing statistical generation process
 
 # 개발 진행 상황
 
